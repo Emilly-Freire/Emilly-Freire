@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" />
+<img src="https://media.giphy.com/media/7SF4K3Qv1FQdK/giphy.gif" width="120" alt="Java Duke Mascote"/>
 
 # Emilly Freire
 
