@@ -14,6 +14,13 @@
 
 - 🌱 I’m currently learning Java, HTML, CSS, JavaScript.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Emilly-Freire
+&show_icons=true
+&title_color=ffff00
+&text_color=f4f5f0
+&icon_color=ffff00
+&border_color=f4f5f0
+&bg_color=000000)
 <!--
 **Emilly-Freire/Emilly-Freire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
