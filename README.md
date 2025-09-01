@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rafaelurben/Java-Duke-GIFs/master/duke-waving.gif" width="120" alt="Java Duke Mascote"/>
+<img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" width="120" alt="Java Logo"/>
 
 # Emilly Freire
 
