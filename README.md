@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  shiny: {
+    title_color: "ffff00",
+    text_color: "f4f5f0",
+    icon_color: "ffff00",
+    border_color: "f4f5f0",
+    bg_color: "000000",
+  },
