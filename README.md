@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi hi, how are you? 👋
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 </div>
 
-- 🌱 I’m currently learning Java, HTML, CSS, JavaScript.
+- 🌱 I’m currently learning Java, HTML, CSS, JavaScript, React, Adonis.
 
 <div align="center">
 
@@ -27,10 +27,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🟣 I’m currently learning React and Adonis
+- 🤔 I’m looking for help with C#
+- 💬 Ask me about anything
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
